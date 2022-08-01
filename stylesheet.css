@@ -86,7 +86,7 @@
   header {
     height: 65px;
     width: 100%;
-    background-color: rgb(137, 194, 218);;
+    background-color: rgb(137, 194, 218);
     position :fixed;
     top: 0;
     z-index: 10;
@@ -194,13 +194,14 @@
   }
   
   footer p {
-    color: #b3aeb5;
+    color: #ffffff;
     font-size: 12px;
   }
   
   footer {
     padding-top: 30px;
     padding-bottom: 20px;
+    background-color: rgb(137, 194, 218);
   }
   
   .menu-icon {
